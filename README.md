@@ -1,2 +1,2 @@
 # LeetCode
-These are all the Solutions for my LeetCode Problem's.
+These are all the Solutions for my LeetCode Problems.
