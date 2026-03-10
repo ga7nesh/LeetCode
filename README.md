@@ -1,6 +1,12 @@
 # LeetCode
 These are all the Solutions for my LeetCode Problems.
 
+
+  <a href="https://leetcode.card.workers.dev">
+    <img src="https://leetcode.card.workers.dev/gundavarapuganesh?theme=dark&font=baloo&extension=activity" alt="GitHub Streak"/>
+  </a>
+
+
 # Profile
 
 ![IMG_2445](https://github.com/ga7nesh/LeetCode/assets/121279015/b2802f90-d6dc-41c4-bb50-3f7bbffc8907)
