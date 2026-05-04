@@ -5,8 +5,8 @@ class Solution {
 
         while (j < n) {
             if (prices[i] > prices[j]) {
-i = j;
-j++;
+                i = j;
+                j++;
             } else {
                 profit = prices[j] - prices[i];
                 max = Math.max(profit, max);
