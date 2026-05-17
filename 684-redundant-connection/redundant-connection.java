@@ -14,9 +14,9 @@ class Solution {
             if (dfs(u, v, new HashSet<>(), map)) {
                 return new int[] { u, v };
             }
+            
             map.get(u).add(v);
             map.get(v).add(u);
-
         }
         return new int[] {};
     }
