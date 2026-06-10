@@ -6,10 +6,10 @@ class Solution {
         while(i<=j){
             int mid = (i+j)/2;
 
-            if(nums[mid]==target){
+            if(target == nums[mid]){
                 return mid;
             }
-            else if(nums[mid] < target){
+            else if(target >= nums[mid]){
                 i = mid+1;
             }
             else{
